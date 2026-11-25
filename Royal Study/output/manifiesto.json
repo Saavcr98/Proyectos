@@ -1,0 +1,1028 @@
+{
+  "semilla": 2026,
+  "transformacion_b": "espejo horizontal (col -> 2-col)",
+  "dibujo": "cada pieza duplicada en diagonal, giros de 45 y 225 grados",
+  "casillas": "0-8 de izquierda a derecha, arriba a abajo",
+  "pares": [
+    {
+      "par": 1,
+      "a": {
+        "Rey": 8,
+        "Reina": 6,
+        "Torre": 5,
+        "Caballo": 3,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 6,
+        "Reina": 8,
+        "Torre": 3,
+        "Caballo": 5,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 2,
+      "a": {
+        "Rey": 0,
+        "Reina": 5,
+        "Torre": 8,
+        "Caballo": 3,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 2,
+        "Reina": 3,
+        "Torre": 6,
+        "Caballo": 5,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 3,
+      "a": {
+        "Rey": 7,
+        "Reina": 5,
+        "Torre": 4,
+        "Caballo": 8,
+        "Alfil": 6
+      },
+      "b": {
+        "Rey": 7,
+        "Reina": 3,
+        "Torre": 4,
+        "Caballo": 6,
+        "Alfil": 8
+      }
+    },
+    {
+      "par": 4,
+      "a": {
+        "Rey": 7,
+        "Reina": 5,
+        "Torre": 4,
+        "Caballo": 2,
+        "Alfil": 8
+      },
+      "b": {
+        "Rey": 7,
+        "Reina": 3,
+        "Torre": 4,
+        "Caballo": 0,
+        "Alfil": 6
+      }
+    },
+    {
+      "par": 5,
+      "a": {
+        "Rey": 3,
+        "Reina": 4,
+        "Torre": 5,
+        "Caballo": 6,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 4,
+        "Torre": 3,
+        "Caballo": 8,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 6,
+      "a": {
+        "Rey": 4,
+        "Reina": 6,
+        "Torre": 2,
+        "Caballo": 3,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 4,
+        "Reina": 8,
+        "Torre": 0,
+        "Caballo": 5,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 7,
+      "a": {
+        "Rey": 0,
+        "Reina": 2,
+        "Torre": 1,
+        "Caballo": 3,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 2,
+        "Reina": 0,
+        "Torre": 1,
+        "Caballo": 5,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 8,
+      "a": {
+        "Rey": 4,
+        "Reina": 3,
+        "Torre": 7,
+        "Caballo": 0,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 4,
+        "Reina": 5,
+        "Torre": 7,
+        "Caballo": 2,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 9,
+      "a": {
+        "Rey": 6,
+        "Reina": 4,
+        "Torre": 2,
+        "Caballo": 1,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 8,
+        "Reina": 4,
+        "Torre": 0,
+        "Caballo": 1,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 10,
+      "a": {
+        "Rey": 4,
+        "Reina": 1,
+        "Torre": 3,
+        "Caballo": 7,
+        "Alfil": 8
+      },
+      "b": {
+        "Rey": 4,
+        "Reina": 1,
+        "Torre": 5,
+        "Caballo": 7,
+        "Alfil": 6
+      }
+    },
+    {
+      "par": 11,
+      "a": {
+        "Rey": 3,
+        "Reina": 4,
+        "Torre": 6,
+        "Caballo": 1,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 4,
+        "Torre": 8,
+        "Caballo": 1,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 12,
+      "a": {
+        "Rey": 3,
+        "Reina": 4,
+        "Torre": 7,
+        "Caballo": 8,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 4,
+        "Torre": 7,
+        "Caballo": 6,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 13,
+      "a": {
+        "Rey": 3,
+        "Reina": 7,
+        "Torre": 8,
+        "Caballo": 2,
+        "Alfil": 6
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 7,
+        "Torre": 6,
+        "Caballo": 0,
+        "Alfil": 8
+      }
+    },
+    {
+      "par": 14,
+      "a": {
+        "Rey": 7,
+        "Reina": 8,
+        "Torre": 3,
+        "Caballo": 1,
+        "Alfil": 6
+      },
+      "b": {
+        "Rey": 7,
+        "Reina": 6,
+        "Torre": 5,
+        "Caballo": 1,
+        "Alfil": 8
+      }
+    },
+    {
+      "par": 15,
+      "a": {
+        "Rey": 3,
+        "Reina": 5,
+        "Torre": 7,
+        "Caballo": 1,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 3,
+        "Torre": 7,
+        "Caballo": 1,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 16,
+      "a": {
+        "Rey": 3,
+        "Reina": 7,
+        "Torre": 5,
+        "Caballo": 8,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 7,
+        "Torre": 3,
+        "Caballo": 6,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 17,
+      "a": {
+        "Rey": 1,
+        "Reina": 3,
+        "Torre": 6,
+        "Caballo": 2,
+        "Alfil": 8
+      },
+      "b": {
+        "Rey": 1,
+        "Reina": 5,
+        "Torre": 8,
+        "Caballo": 0,
+        "Alfil": 6
+      }
+    },
+    {
+      "par": 18,
+      "a": {
+        "Rey": 4,
+        "Reina": 2,
+        "Torre": 8,
+        "Caballo": 3,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 4,
+        "Reina": 0,
+        "Torre": 6,
+        "Caballo": 5,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 19,
+      "a": {
+        "Rey": 5,
+        "Reina": 0,
+        "Torre": 3,
+        "Caballo": 8,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 3,
+        "Reina": 2,
+        "Torre": 5,
+        "Caballo": 6,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 20,
+      "a": {
+        "Rey": 1,
+        "Reina": 7,
+        "Torre": 3,
+        "Caballo": 0,
+        "Alfil": 8
+      },
+      "b": {
+        "Rey": 1,
+        "Reina": 7,
+        "Torre": 5,
+        "Caballo": 2,
+        "Alfil": 6
+      }
+    },
+    {
+      "par": 21,
+      "a": {
+        "Rey": 1,
+        "Reina": 7,
+        "Torre": 0,
+        "Caballo": 6,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 1,
+        "Reina": 7,
+        "Torre": 2,
+        "Caballo": 8,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 22,
+      "a": {
+        "Rey": 3,
+        "Reina": 7,
+        "Torre": 0,
+        "Caballo": 1,
+        "Alfil": 8
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 7,
+        "Torre": 2,
+        "Caballo": 1,
+        "Alfil": 6
+      }
+    },
+    {
+      "par": 23,
+      "a": {
+        "Rey": 3,
+        "Reina": 8,
+        "Torre": 2,
+        "Caballo": 1,
+        "Alfil": 6
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 6,
+        "Torre": 0,
+        "Caballo": 1,
+        "Alfil": 8
+      }
+    },
+    {
+      "par": 24,
+      "a": {
+        "Rey": 5,
+        "Reina": 3,
+        "Torre": 2,
+        "Caballo": 6,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 3,
+        "Reina": 5,
+        "Torre": 0,
+        "Caballo": 8,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 25,
+      "a": {
+        "Rey": 3,
+        "Reina": 7,
+        "Torre": 2,
+        "Caballo": 1,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 7,
+        "Torre": 0,
+        "Caballo": 1,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 26,
+      "a": {
+        "Rey": 5,
+        "Reina": 2,
+        "Torre": 3,
+        "Caballo": 8,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 3,
+        "Reina": 0,
+        "Torre": 5,
+        "Caballo": 6,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 27,
+      "a": {
+        "Rey": 0,
+        "Reina": 5,
+        "Torre": 1,
+        "Caballo": 8,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 2,
+        "Reina": 3,
+        "Torre": 1,
+        "Caballo": 6,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 28,
+      "a": {
+        "Rey": 6,
+        "Reina": 3,
+        "Torre": 0,
+        "Caballo": 7,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 8,
+        "Reina": 5,
+        "Torre": 2,
+        "Caballo": 7,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 29,
+      "a": {
+        "Rey": 3,
+        "Reina": 4,
+        "Torre": 7,
+        "Caballo": 0,
+        "Alfil": 6
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 4,
+        "Torre": 7,
+        "Caballo": 2,
+        "Alfil": 8
+      }
+    },
+    {
+      "par": 30,
+      "a": {
+        "Rey": 8,
+        "Reina": 7,
+        "Torre": 1,
+        "Caballo": 3,
+        "Alfil": 6
+      },
+      "b": {
+        "Rey": 6,
+        "Reina": 7,
+        "Torre": 1,
+        "Caballo": 5,
+        "Alfil": 8
+      }
+    },
+    {
+      "par": 31,
+      "a": {
+        "Rey": 6,
+        "Reina": 0,
+        "Torre": 3,
+        "Caballo": 5,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 8,
+        "Reina": 2,
+        "Torre": 5,
+        "Caballo": 3,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 32,
+      "a": {
+        "Rey": 8,
+        "Reina": 3,
+        "Torre": 2,
+        "Caballo": 7,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 6,
+        "Reina": 5,
+        "Torre": 0,
+        "Caballo": 7,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 33,
+      "a": {
+        "Rey": 3,
+        "Reina": 5,
+        "Torre": 8,
+        "Caballo": 1,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 3,
+        "Torre": 6,
+        "Caballo": 1,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 34,
+      "a": {
+        "Rey": 6,
+        "Reina": 3,
+        "Torre": 2,
+        "Caballo": 8,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 8,
+        "Reina": 5,
+        "Torre": 0,
+        "Caballo": 6,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 35,
+      "a": {
+        "Rey": 3,
+        "Reina": 6,
+        "Torre": 5,
+        "Caballo": 1,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 8,
+        "Torre": 3,
+        "Caballo": 1,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 36,
+      "a": {
+        "Rey": 2,
+        "Reina": 5,
+        "Torre": 8,
+        "Caballo": 6,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 0,
+        "Reina": 3,
+        "Torre": 6,
+        "Caballo": 8,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 37,
+      "a": {
+        "Rey": 7,
+        "Reina": 1,
+        "Torre": 2,
+        "Caballo": 3,
+        "Alfil": 6
+      },
+      "b": {
+        "Rey": 7,
+        "Reina": 1,
+        "Torre": 0,
+        "Caballo": 5,
+        "Alfil": 8
+      }
+    },
+    {
+      "par": 38,
+      "a": {
+        "Rey": 4,
+        "Reina": 7,
+        "Torre": 5,
+        "Caballo": 2,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 4,
+        "Reina": 7,
+        "Torre": 3,
+        "Caballo": 0,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 39,
+      "a": {
+        "Rey": 1,
+        "Reina": 6,
+        "Torre": 3,
+        "Caballo": 2,
+        "Alfil": 8
+      },
+      "b": {
+        "Rey": 1,
+        "Reina": 8,
+        "Torre": 5,
+        "Caballo": 0,
+        "Alfil": 6
+      }
+    },
+    {
+      "par": 40,
+      "a": {
+        "Rey": 1,
+        "Reina": 6,
+        "Torre": 2,
+        "Caballo": 8,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 1,
+        "Reina": 8,
+        "Torre": 0,
+        "Caballo": 6,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 41,
+      "a": {
+        "Rey": 2,
+        "Reina": 7,
+        "Torre": 3,
+        "Caballo": 6,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 0,
+        "Reina": 7,
+        "Torre": 5,
+        "Caballo": 8,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 42,
+      "a": {
+        "Rey": 6,
+        "Reina": 4,
+        "Torre": 1,
+        "Caballo": 7,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 8,
+        "Reina": 4,
+        "Torre": 1,
+        "Caballo": 7,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 43,
+      "a": {
+        "Rey": 3,
+        "Reina": 6,
+        "Torre": 4,
+        "Caballo": 0,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 8,
+        "Torre": 4,
+        "Caballo": 2,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 44,
+      "a": {
+        "Rey": 8,
+        "Reina": 3,
+        "Torre": 6,
+        "Caballo": 1,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 6,
+        "Reina": 5,
+        "Torre": 8,
+        "Caballo": 1,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 45,
+      "a": {
+        "Rey": 2,
+        "Reina": 6,
+        "Torre": 8,
+        "Caballo": 3,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 0,
+        "Reina": 8,
+        "Torre": 6,
+        "Caballo": 5,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 46,
+      "a": {
+        "Rey": 8,
+        "Reina": 0,
+        "Torre": 3,
+        "Caballo": 6,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 6,
+        "Reina": 2,
+        "Torre": 5,
+        "Caballo": 8,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 47,
+      "a": {
+        "Rey": 3,
+        "Reina": 5,
+        "Torre": 8,
+        "Caballo": 6,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 3,
+        "Torre": 6,
+        "Caballo": 8,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 48,
+      "a": {
+        "Rey": 3,
+        "Reina": 6,
+        "Torre": 0,
+        "Caballo": 5,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 8,
+        "Torre": 2,
+        "Caballo": 3,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 49,
+      "a": {
+        "Rey": 3,
+        "Reina": 8,
+        "Torre": 2,
+        "Caballo": 6,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 6,
+        "Torre": 0,
+        "Caballo": 8,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 50,
+      "a": {
+        "Rey": 3,
+        "Reina": 7,
+        "Torre": 4,
+        "Caballo": 8,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 7,
+        "Torre": 4,
+        "Caballo": 6,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 51,
+      "a": {
+        "Rey": 1,
+        "Reina": 4,
+        "Torre": 6,
+        "Caballo": 5,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 1,
+        "Reina": 4,
+        "Torre": 8,
+        "Caballo": 3,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 52,
+      "a": {
+        "Rey": 8,
+        "Reina": 7,
+        "Torre": 1,
+        "Caballo": 5,
+        "Alfil": 6
+      },
+      "b": {
+        "Rey": 6,
+        "Reina": 7,
+        "Torre": 1,
+        "Caballo": 3,
+        "Alfil": 8
+      }
+    },
+    {
+      "par": 53,
+      "a": {
+        "Rey": 7,
+        "Reina": 2,
+        "Torre": 3,
+        "Caballo": 1,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 7,
+        "Reina": 0,
+        "Torre": 5,
+        "Caballo": 1,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 54,
+      "a": {
+        "Rey": 6,
+        "Reina": 2,
+        "Torre": 0,
+        "Caballo": 3,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 8,
+        "Reina": 0,
+        "Torre": 2,
+        "Caballo": 5,
+        "Alfil": 4
+      }
+    },
+    {
+      "par": 55,
+      "a": {
+        "Rey": 0,
+        "Reina": 1,
+        "Torre": 7,
+        "Caballo": 8,
+        "Alfil": 6
+      },
+      "b": {
+        "Rey": 2,
+        "Reina": 1,
+        "Torre": 7,
+        "Caballo": 6,
+        "Alfil": 8
+      }
+    },
+    {
+      "par": 56,
+      "a": {
+        "Rey": 3,
+        "Reina": 7,
+        "Torre": 8,
+        "Caballo": 2,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 5,
+        "Reina": 7,
+        "Torre": 6,
+        "Caballo": 0,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 57,
+      "a": {
+        "Rey": 7,
+        "Reina": 5,
+        "Torre": 3,
+        "Caballo": 1,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 7,
+        "Reina": 3,
+        "Torre": 5,
+        "Caballo": 1,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 58,
+      "a": {
+        "Rey": 6,
+        "Reina": 1,
+        "Torre": 8,
+        "Caballo": 7,
+        "Alfil": 2
+      },
+      "b": {
+        "Rey": 8,
+        "Reina": 1,
+        "Torre": 6,
+        "Caballo": 7,
+        "Alfil": 0
+      }
+    },
+    {
+      "par": 59,
+      "a": {
+        "Rey": 5,
+        "Reina": 2,
+        "Torre": 6,
+        "Caballo": 8,
+        "Alfil": 0
+      },
+      "b": {
+        "Rey": 3,
+        "Reina": 0,
+        "Torre": 8,
+        "Caballo": 6,
+        "Alfil": 2
+      }
+    },
+    {
+      "par": 60,
+      "a": {
+        "Rey": 6,
+        "Reina": 0,
+        "Torre": 1,
+        "Caballo": 7,
+        "Alfil": 4
+      },
+      "b": {
+        "Rey": 8,
+        "Reina": 2,
+        "Torre": 1,
+        "Caballo": 7,
+        "Alfil": 4
+      }
+    }
+  ]
+}
